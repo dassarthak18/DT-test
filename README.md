@@ -1,6 +1,6 @@
 # ID3 vs CART
 
-This repository is for testing out differences between ID3 and CART, particularly answering the question : Can "splitting attribute" appear many times in decision tree?
+This repository is for testing out differences between ID3 and CART, particularly answering the question : Can "splitting attribute" appear many times in decision tree? (This question was discussed [here](https://stackoverflow.com/questions/19993139/can-splitting-attribute-appear-many-times-in-decision-tree).)
 
 ID3
 ------------
